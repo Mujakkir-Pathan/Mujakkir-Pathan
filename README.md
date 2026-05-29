@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 I am currently pursuing bca degree.<br>I am looking to collaborate on a DevOps project.<br>I am looking for help with my AWS project.<br>I am currently learning DevOps tools.<br>Ask me about Linux.<br>Fun fact: I know about core Hadoop.
 
 
