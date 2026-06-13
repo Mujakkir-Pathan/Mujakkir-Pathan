@@ -21,6 +21,11 @@ I am an **Aspiring DevOps Engineer**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujakkir-pathan-0b5130362) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mujakkir.pathan05@gmail.com) 
 
 ---
+## 🔥 Current Challenge
+
+🚀 Completing #90DaysOfDevOps while building hands-on AWS and Linux skills every day.
+
+---
 
 ## 🛠️ Tech Stack
 
