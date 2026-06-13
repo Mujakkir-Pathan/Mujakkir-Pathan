@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Afroz Shaikh
+# 👋 Hi, I’m Mujakkir Pathan
 
 ## 🚀 About Me
 
