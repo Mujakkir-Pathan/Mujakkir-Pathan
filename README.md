@@ -1,5 +1,4 @@
-## About Me:
-👋 Hi, I’m Mujakkir Pathan<br><br> 🚀 About Me<br><br> I am an **Aspiring DevOps Engineer**<br>- 💡Passionate about automation, cloud-native solutions, and troubleshooting real-world workflows. <br>- 🌱looking to collaborate on a DevOps project.<br>- 🌱 I am looking for help with my AWS project.<br>- 💬 Ask me about Linux.<br>- ⚡Fun fact: I know about core Hadoop.
+👋 Hi, I’m Mujakkir Pathan<br><br> ## 🚀 About Me<br><br> I am an **Aspiring DevOps Engineer**<br>- 💡Passionate about automation, cloud-native solutions, and troubleshooting real-world workflows. <br>- 🌱looking to collaborate on a DevOps project.<br>- 🌱 I am looking for help with my AWS project.<br>- 💬 Ask me about Linux.<br>- ⚡Fun fact: I know about core Hadoop.
 
 ---
 
