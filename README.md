@@ -48,7 +48,7 @@ My notes from the 90 days of DevOps challenge: daily tasks, write ups, and the s
 **Cloud and containers**
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
@@ -78,16 +78,12 @@ My notes from the 90 days of DevOps challenge: daily tasks, write ups, and the s
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mujakkir-Pathan&theme=tokyonight&hide_border=true&show_icons=true" alt="Mujakkir Pathan GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujakkir-Pathan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Mujakkir-Pathan&theme=tokyonight&hide_border=true&show_icons=true" alt="Mujakkir Pathan GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mujakkir-Pathan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Mujakkir-Pathan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mujakkir-Pathan&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&area_color=1f6feb&hide_border=true" alt="Activity graph" width="100%"/>
 </p>
 
 ---
